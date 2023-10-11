@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abderrezak mrch
 - 👀 I’m interested in java
-- 🌱 I’m currently learning backend java framework 
+- 🌱 I’m currently learning backend java framework spring 
 - 💞️ I’m looking to collaborate with other developers 
 - 📫 How to reach me fb || insta : abderrezak mrch
 - ⚡ fact about me i love Minecraft 
